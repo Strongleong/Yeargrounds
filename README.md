@@ -5,7 +5,7 @@ with period of one year.
 
 ## How to use it
 
-1. Install the extension.
+1. Install the [extension](https://addons.mozilla.org/firefox/addon/yeargrounds/).
 2. Open any content list at [Newgrounds](https://newgrounds.com) (i.e. games,
    movies, art e.t.c)
 3. Select "Custom" range (first select in the filters).
