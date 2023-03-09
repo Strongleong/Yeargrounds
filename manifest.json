@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Yeargrounds",
+  "version": "1.0",
+  "description": "Search Newgrounds content by year",
+  "icons": {
+    "48": "icons/newgrounds-48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.newgrounds.com/*"
+      ],
+      "js": [
+        "yeargrounds.js"
+      ]
+    }
+  ]
+}
